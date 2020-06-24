@@ -1,6 +1,4 @@
-/*ΙΩΑΝΝΑ ΖΟΥΡΝΑΤΖΗ 321/2017052
-    ΑΣΚΗΣΗ 2, 2Η ΑΤΟΜΙΚΗ ΕΡΓΑΣΙΑ */
-
+/*Ioanna Zournatzi*/
 import java.util.*;
 import java.util.ArrayList;
 import java.util.Scanner;
